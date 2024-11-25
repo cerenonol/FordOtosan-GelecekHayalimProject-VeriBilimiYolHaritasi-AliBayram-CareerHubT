@@ -36,11 +36,17 @@ Proje kapsamında, öğrendiğim konuları daha da derinlemesine incelemeyi ve u
 
 
 ## Katkıda Bulunanlar
-- **Ali Bayram** - Veri Bilimi Eğitmeni
+- **Ali Bayram** - Veri Bilimi Eğitmeni 
 - **Ford Otosan** - Proje Ortakları
 - **Vehbi Koç Vakfı** - Proje Ortakları
 - **WTech** - Proje Ortakları
 - **CareerHubT** - Eğitim Akademisi
-- 
+
+## Eğitmen
+
+Bu eğitim, [M. Ali Bayram](https://github.com/MAliBayram) tarafından verilmiştir.
+
+
+  
 
 
